@@ -25,4 +25,4 @@ Customer Purchase History
 Total Sales Function
 
 
-<img width="267" height="161" alt="image" src="https://github.com/user-attachments/assets/a20d7ef1-ded8-4761-b9c5-6b787d3d7845" /
+<img width="267" height="161" alt="image" src="https://github.com/user-attachments/assets/a20d7ef1-ded8-4761-b9c5-6b787d3d7845" />
